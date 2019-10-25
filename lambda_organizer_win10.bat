@@ -32,7 +32,7 @@ MkDir "%USERPROFILE%\Desktop\Lambda\Course\5. Web API - Node\2. Adding Data Pers
 MkDir "%USERPROFILE%\Desktop\Lambda\Course\5. Web API - Node\3. Authentication and Testing"
 MkDir "%USERPROFILE%\Desktop\Lambda\Course\5. Web API - Node\4. WEB Unit 4 Node Build"
 
-MkDir "%USERPROFILE%\Desktop\Lambda\Course\6. Web API - Javas"
+MkDir "%USERPROFILE%\Desktop\Lambda\Course\6. Web API - Java"
 MkDir "%USERPROFILE%\Desktop\Lambda\Course\6. Web API - Java\1. WEB Java Fundamentals"
 MkDir "%USERPROFILE%\Desktop\Lambda\Course\6. Web API - Java\2. RDBMS and API Introduction"
 MkDir "%USERPROFILE%\Desktop\Lambda\Course\6. Web API - Java\3. Java Fundamentals"
